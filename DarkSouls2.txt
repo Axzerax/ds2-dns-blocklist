@@ -1,0 +1,6 @@
+# This is a dns block list for pfSense or OPNSense for the Dark Souls II Online Server
+# When it's blocked, it allows you to play in offline mode without unplugging your ethernet cord every time.
+
+# https://github.com/Axzerax
+
+frpg2-steam64-ope-login.fromsoftware-game.net
